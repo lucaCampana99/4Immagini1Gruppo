@@ -14,9 +14,9 @@ Ora vedremo più in dettaglio ogni classe scelta:
 ## Istogramma.py
 
 In questa parte del programma viene implementata la classe Istogramma che si compone di 3 funzioni:
-La funzione di inizializzazione
-La funzione “histogram”: funzione che calcola l’istogramma 3D di una maschera data in input, in seguito l’output viene appiattito per facilitarne la scrittura su file e soprattutto l’estrazione in seguito
-La funzione “describe”: in questa funzione l’immagine data in input viene convertita in formato “HSV” e viene suddivisa in 4 maschere, ed ad ognuna viene applicata la funzione histogram. I risultati vengono salvati in un array features. Inizialmente la nostra scelta era di suddividere l’immagine in 9 maschere, che teoricamente ne avrebbe aumentato la precisione. In fase di testing abbiamo però notato delle maggiori performance della versione a 4 maschere nel nostro Dataset.                                                                                                                                
+1. La funzione di inizializzazione
+2. La funzione “histogram”: funzione che calcola l’istogramma 3D di una maschera data in input, in seguito l’output viene appiattito per facilitarne la scrittura su file e soprattutto l’estrazione in seguito
+3. La funzione “describe”: in questa funzione l’immagine data in input viene convertita in formato “HSV” e viene suddivisa in 4 maschere, ed ad ognuna viene applicata la funzione histogram. I risultati vengono salvati in un array features. Inizialmente la nostra scelta era di suddividere l’immagine in 9 maschere, che teoricamente ne avrebbe aumentato la precisione. In fase di testing abbiamo però notato delle maggiori performance della versione a 4 maschere nel nostro Dataset.                                                                                                                                
 
 ## EstrazioneFeaturesIsto.py
 
