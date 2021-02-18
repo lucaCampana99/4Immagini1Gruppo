@@ -36,7 +36,7 @@ In questa parte del programma viene implementata la classe Comparatore che si co
 ## Applicazione.py
 
 In questa parte del programma avviene il confronto vero e proprio tra le features e avviene la stampa dei risultati.
-L’immagine query viene descritta tramite la funzione “describe” della classe Istogramma e le features ricavate vengono comparate tramite la funzione “compara” della classe “Comparatore”.
+L’immagine query viene descritta tramite la funzione “describe” della classe Istogramma e le features ricavate vengono comparate tramite la funzione “compara” della classe “ComparatoreIsto”.
 I risultati vengono riordinati e limitati e in seguito stampati a video.
 
 # CONFRONTO TRAMITE CONTORNI
