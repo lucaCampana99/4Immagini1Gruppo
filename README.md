@@ -1,8 +1,8 @@
 # 4Immagini1Gruppo
 image reverse search engine made by Luca Campana, Edoardo Maines, Alan Cesaro, Mario Sorrentino.
 
-Link dataset: https://drive.google.com/drive/folders/1rywxo0ERvLRX7l2cVWaEn9PeKYLOFJfS?usp=sharing
-inserire nella cartella 4Immagini1Gruppo per il corretto funzionamento
+Link dataset: https://drive.google.com/drive/folders/1rywxo0ERvLRX7l2cVWaEn9PeKYLOFJfS?usp=sharing.
+Inserire nella cartella 4Immagini1Gruppo per il corretto funzionamento
 
 # Implementazione ed applicazione algoritmi
 
